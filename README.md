@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mark61-done" alt="mark61-done" /></a> </p>
 
-- 🔭 I’m currently working on [coffee-web](https://coffee-web-iota.vercel.app/)
+- 🔭 I’m currently working on Quick Ai website
 
-- 🌱 I’m currently learning **Backend development**
+- 🌱 I’m currently learning **Software Engineering**
 
 - 👯 I’m looking to collaborate on **cloudnative projects**
 
