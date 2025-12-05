@@ -1,35 +1,73 @@
-<h1 align="center">Hi 👋, I'm Marko Olando</h1>
-<h3 align="center">A passionate software developer from Kenya</h3>
+🌌 Marko Olando — Full-Stack & Cloud Developer
+<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&duration=3500&pause=1200&color=00AEEF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Marko+Olando.;Full-Stack+Software+Developer.;Cloud+Native+%26+DevOps+Engineer.;Problem+Solver+%7C+Tech+Learner+%7C+Builder." /> </div>
+<div align="center">
+🚀 “Turning ideas into scalable, cloud-powered solutions.”
+</div>
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=mark61-done&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" /> </div>
+🧑‍🚀 About Me
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mark61-done&label=Profile%20views&color=0e75b6&style=flat" alt="mark61-done" /> </p>
+💡 Passionate about building modern web apps
+🌍 Based in Kenya
+🔥 Working on Quick AI
+📘 Studying Software Engineering
+🤝 Interested in Cloud Native & DevOps
+💬 Ask about React, JavaScript, Node.js
+🌐 Portfolio → https://my-portfolio-five-smoky-19.vercel.app/
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mark61-done" alt="mark61-done" /></a> </p>
+📧 Email → markoolando558@gmail.com
 
-- 🔭 I’m currently working on Quick Ai website
+🌐 Connect With Me
+<p align="left"> <a href="https://linkedin.com/in/marko-olando" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" width="48" /> </a> &nbsp;&nbsp; </p>
+🧰 Tech Stack
+🎨 Frontend
+<p> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,flutter,figma" height="55"/> </p>
+🔧 Backend
+<p> <img src="https://skillicons.dev/icons?i=nodejs,python,django,flask" height="55"/> </p>
+🗄️ Databases
+<p> <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" height="55"/> </p>
+☁️ Cloud & DevOps
+<p> <img src="https://skillicons.dev/icons?i=aws,azure,docker,git,linux" height="55"/> </p>
+📈 Skill Levels
+Skill	Level
+React.js	🔵🔵🔵🔵🔵🔵⚪⚪⚪⚪ 60%
+JavaScript	🔵🔵🔵🔵🔵🔵🔵⚪⚪⚪ 70%
+Node.js	🔵🔵🔵🔵🔵⚪⚪⚪⚪⚪ 50%
+DevOps / Cloud	🔵🔵🔵⚪⚪⚪⚪⚪⚪⚪ 30%
+Python	🔵🔵🔵🔵⚪⚪⚪⚪⚪⚪ 40%
+🏆 Achievements
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=mark61-done&theme=algolia&margin-w=10&no-frame=true" /> </div>
+📊 GitHub Performance Dashboard
+🔹 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mark61-done&show_icons=true&theme=tokyonight&hide_border=true" height="165"/> </p>
+🔹 Top Languages
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mark61-done&layout=compact&theme=tokyonight&hide_border=true" height="165"/> </p>
+🔹 Streak Stats
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=mark61-done&theme=tokyonight&hide_border=true" height="200"/> </p>
+🧩 Featured Tools
+<p align="center"> <img src="https://skillicons.dev/icons?i=vscode,postman,github,figma,npm,yarn,vercel" height="55"/> </p>
+🗂️ My Projects
+<details> <summary>✨ Click to Expand</summary>
+🚀 Quick AI
 
-- 🌱 I’m currently learning **Software Engineering**
+AI-powered productivity tools (In progress)
 
-- 👯 I’m looking to collaborate on **cloudnative projects**
+📦 Visitor Management System
 
-- 🤝 I’m looking for help with **DevOps**
+Full-stack system with MySQL, Node.js & authentication
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-five-smoky-19.vercel.app/](https://my-portfolio-five-smoky-19.vercel.app/)
+🎨 Portfolio
 
-- 💬 Ask me about **React,Javascript and Nodejs**
+Professional developer portfolio:
+🔗 https://my-portfolio-five-smoky-19.vercel.app/
 
-- 📫 How to reach me **markoolando558@gmail.com**
+</details>
+🧠 Fun Fact
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/marko olando" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marko olando" height="30" width="40" /></a>
-</p>
+“Great software isn’t built by chance — it’s built by consistency.”
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+📬 Let’s Build Something Together
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mark61-done&show_icons=true&locale=en&layout=compact" alt="mark61-done" /></p>
+📧 Email: markoolando558@gmail.com
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mark61-done&show_icons=true&locale=en" alt="mark61-done" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mark61-done&" alt="mark61-done" /></p>
+🌍 Portfolio: my-portfolio-five-smoky-19.vercel.app
 
