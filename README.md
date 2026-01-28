@@ -46,7 +46,7 @@ Python	🔵🔵🔵🔵⚪⚪⚪⚪⚪⚪ 40%
 🧩 Featured Tools
 <p align="center"> <img src="https://skillicons.dev/icons?i=vscode,postman,github,figma,npm,yarn,vercel" height="55"/> </p>
 🗂️ My Projects
-<details> <summary>✨ Click to Expand</summary>
+<details> <summary>✨ Click to See more</summary>
 🚀 Quick AI
 
 AI-powered productivity tools (In progress)
