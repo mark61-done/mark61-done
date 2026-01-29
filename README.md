@@ -16,7 +16,7 @@
 
 📧 Email → markoolando558@gmail.com
 
-🌐 Connect With Me
+🌐 Connect With Me Now
 <p align="left"> <a href="https://linkedin.com/in/marko-olando" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" width="48" /> </a> &nbsp;&nbsp; </p>
 🧰 Tech Stack
 🎨 Frontend
