@@ -4,7 +4,7 @@
 🚀 “Turning ideas into scalable, cloud-powered solutions.”
 </div>
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=mark61-done&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" /> </div>
-🧑‍🚀 About Me
+🧑‍🚀 About Myself
 
 💡 Passionate about building modern web apps
 🌍 Based in Kenya
