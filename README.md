@@ -95,14 +95,6 @@ https://my-portfolio-five-smoky-19.vercel.app/
 
 ## Impact & Metrics (To Be Updated)
 
-> *(Add real metrics here as your projects grow — this is important for senior-level credibility)*
-
-Examples you can include:
-- Reduced API response time by X%
-- Handled X+ users / requests
-- Improved system performance by X%
-- Deployed applications with X uptime
-
 ---
 
 ## GitHub Analytics
