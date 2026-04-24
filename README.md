@@ -2,24 +2,47 @@
 ### Full-Stack Software Engineer • Cloud & DevOps
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=26&duration=3000&pause=1000&color=00AEEF&center=true&vCenter=true&width=800&lines=Building+scalable+web+applications;Cloud-native+systems+%26+DevOps+pipelines;Clean+architecture+%7C+Performance+focused" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=26&duration=3000&pause=1000&color=00AEEF&center=true&vCenter=true&width=800&lines=Building+scalable+web+applications;Designing+cloud-native+systems;Backend+engineering+%7C+DevOps+%7C+Performance" />
 </p>
 
 <p align="center">
-  <i>Designing and engineering scalable, reliable, and production-ready systems.</i>
+  <i>Engineering scalable, maintainable, and production-ready systems.</i>
 </p>
 
 ---
 
 ## About
 
-I am a full-stack developer focused on building scalable web applications and cloud-native systems.  
-My work emphasizes clean architecture, performance, and maintainability.
+Full-stack software engineer focused on building scalable applications and cloud-native systems.  
+Strong interest in backend architecture, DevOps, and performance optimization.
 
-- Currently building **Quick AI** (AI-powered productivity tools)
-- Strong interest in **Cloud Engineering & DevOps**
-- Background in **Software Engineering**
-- Focused on **real-world systems and production-grade solutions**
+- Currently building **Quick AI** (AI-powered productivity platform)
+- Experience developing **full-stack systems with authentication & database integration**
+- Focused on **clean architecture, scalability, and real-world problem solving**
+- Continuously improving in **system design and cloud engineering**
+
+---
+
+## Engineering Focus
+
+- Scalable system design (modular architectures, API-driven systems)
+- RESTful API design & integration
+- Authentication & authorization systems (JWT-based flows)
+- Database design, normalization & query optimization
+- Cloud deployment & CI/CD pipelines
+- Performance tuning & efficient data handling
+
+---
+
+## System Design & Architecture
+
+I approach development with a focus on **structure, scalability, and maintainability**:
+
+- Layered architecture (frontend → API → database)
+- Separation of concerns (controllers, services, data access)
+- Stateless backend design for scalability
+- RESTful service patterns
+- Environment-based configuration & deployment readiness
 
 ---
 
@@ -39,28 +62,46 @@ AWS • Azure • Docker • Git • Linux
 
 ---
 
-## Engineering Focus
-
-- Scalable system design
-- RESTful API architecture
-- Database modeling & optimization
-- Authentication & security flows
-- Cloud deployment & CI/CD pipelines
-- Performance optimization
-
----
-
 ## Selected Projects
 
 ### Quick AI
-AI-powered productivity platform (in progress)
+AI-powered productivity platform *(in progress)*  
+- Designing modular frontend and backend architecture  
+- Integrating API-driven features for automation workflows  
+
+---
 
 ### Visitor Management System
-Full-stack system with authentication, real-time data handling, and MySQL integration
+Full-stack application with authentication and database integration  
+
+**Key Features:**
+- Secure login system with JWT authentication  
+- Visitor check-in/check-out system  
+- MySQL database integration with relational schema  
+- Dynamic frontend connected to backend APIs  
+
+**Technical Highlights:**
+- Structured backend with Node.js  
+- RESTful API architecture  
+- Real-time data handling between frontend and backend  
+
+---
 
 ### Portfolio
 Professional developer portfolio  
 https://my-portfolio-five-smoky-19.vercel.app/
+
+---
+
+## Impact & Metrics (To Be Updated)
+
+> *(Add real metrics here as your projects grow — this is important for senior-level credibility)*
+
+Examples you can include:
+- Reduced API response time by X%
+- Handled X+ users / requests
+- Improved system performance by X%
+- Deployed applications with X uptime
 
 ---
 
@@ -91,14 +132,5 @@ VS Code • Postman • GitHub • Figma • npm • Vercel
 ---
 
 <p align="center">
-  <i>Focused on building systems that scale and solving meaningful engineering problems.</i>
+  <i>Focused on building scalable systems, improving performance, and solving real-world engineering problems.</i>
 </p>
-🧠 Fun Fact
-
-“Great software isn’t built by chance — it’s built by consistency.”
-
-📬 Let’s Build Something Together
-
-📧 Email: markoolando558@gmail.com
-
-🌍 Portfolio: my-portfolio-five-smoky-19.vercel.app
