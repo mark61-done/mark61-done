@@ -89,7 +89,7 @@ Full-stack application with authentication and database integration
 
 ### Portfolio
 Professional developer portfolio  
-https://my-portfolio-five-smoky-19.vercel.app/
+https://frontend-portfolio-psi-kohl.vercel.app/
 
 ---
 
